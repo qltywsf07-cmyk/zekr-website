@@ -1,0 +1,9 @@
+{
+  "name": "ذِكر | الأحاديث القدسية ومواقيت الصلاة",
+  "description": "منصة إسلامية موثوقة للتذكير بالأحاديث القدسية الصحيحة، ومواقيت الصلاة مع العد التنازلي، ومعلومات وأذكار إسلامية شاملة.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
